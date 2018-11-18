@@ -1,9 +1,21 @@
 body {
 	background-color: #23C9C9;
+	
 }
 
 .card-title {
 	color: orange;
-	font: bold;
+	font-family: 'Great Vibes', cursive; 
+	font-size: 40px
+
 }
+
+
+.pretty {
+	color: orange;
+	font-family: 'Great Vibes', cursive; 
+	font-size: 20px
+
+}
+
 
